@@ -112,8 +112,8 @@ github.com/mattn/go-isatty v0.0.14/go.mod h1:7GGIvUiUoEMVVmxf/4nioHXj79iQHKdU27k
 github.com/mattn/go-isatty v0.0.16/go.mod h1:kYGgaQfpe5nmfYZH+SKPsOc2e4SrIfOl2e/yFXSvRLM=
 github.com/mattn/go-isatty v0.0.19 h1:JITubQf0MOLdlGRuRq+jtsDlekdYPia9ZFsB8h/APPA=
 github.com/mattn/go-isatty v0.0.19/go.mod h1:W+V8PltTTMOvKvAeJH7IuucS94S2C6jfK/D7dTCTo3Y=
-github.com/mattwebbio/go-forwardemail v1.0.1 h1:XBvgCZsGNiR7IQpkeFeDgjHQgUDE9lWTibzeqRZb/DI=
-github.com/mattwebbio/go-forwardemail v1.0.1/go.mod h1:mRltiIRS06b+UX59YAwmHGKJunWTde7SNP/ub5T/p+o=
+github.com/mattwebbio/go-forwardemail v1.0.2 h1:zvVds41UmOZ9iQWW9HOH+pCT2WUaEMNehet6Bcx7bko=
+github.com/mattwebbio/go-forwardemail v1.0.2/go.mod h1:mRltiIRS06b+UX59YAwmHGKJunWTde7SNP/ub5T/p+o=
 github.com/mitchellh/copystructure v1.2.0 h1:vpKXTN4ewci03Vljg/q9QvCGUDttBOGBIa15WveJJGw=
 github.com/mitchellh/copystructure v1.2.0/go.mod h1:qLl+cE2AmVv+CoeAwDPye/v+N2HKCj9FbZEVFJRxO9s=
 github.com/mitchellh/go-testing-interface v1.14.1 h1:jrgshOhYAUVNMAJiKbEu7EqAwgJJ2JqpQmpLJOu07cU=
