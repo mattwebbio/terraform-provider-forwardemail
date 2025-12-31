@@ -82,7 +82,7 @@ func resourceAliasCreate(ctx context.Context, d *schema.ResourceData, meta inter
 	}
 
 	for k, v := range map[string]interface{}{
-		"domain":                     alias.Domain.Name,
+		"domain":                     domain,
 		"has_recipient_verification": alias.HasRecipientVerification,
 		"is_enabled":                 alias.IsEnabled,
 		"recipients":                 alias.Recipients,
@@ -110,7 +110,7 @@ func resourceAliasRead(ctx context.Context, d *schema.ResourceData, meta interfa
 	}
 
 	for k, v := range map[string]interface{}{
-		"domain":                     alias.Domain.Name,
+		"domain":                     domain,
 		"has_recipient_verification": alias.HasRecipientVerification,
 		"is_enabled":                 alias.IsEnabled,
 		"recipients":                 alias.Recipients,
