@@ -6,7 +6,7 @@ require (
 	github.com/google/go-cmp v0.5.9
 	github.com/hashicorp/terraform-plugin-sdk/v2 v2.29.0
 	github.com/jaswdr/faker v1.19.1
-	github.com/mattwebbio/go-forwardemail v1.0.2
+	github.com/mattwebbio/go-forwardemail v1.0.3
 )
 
 require (

@@ -36,7 +36,7 @@ func TestAccForwardemailAliasSmtpCredentials_customPassword(t *testing.T) {
 	domain := fake.Internet().Domain()
 	name := fake.Internet().User()
 	recipient := fake.Internet().FreeEmail()
-	customPassword := fake.Internet().Password()
+	customPassword := "Test!Str0ng#Pass2024$"
 
 	resource.Test(t, resource.TestCase{
 		PreCheck:          func() { testAccPreCheck(t) },
