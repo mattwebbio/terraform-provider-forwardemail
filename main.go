@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/abagayev/terraform-provider-forwardemail/forwardemail"
+	"github.com/mattwebbio/terraform-provider-forwardemail/forwardemail"
 
 	"github.com/hashicorp/terraform-plugin-sdk/v2/plugin"
 )

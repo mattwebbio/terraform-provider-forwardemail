@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/abagayev/go-forwardemail/forwardemail"
+	"github.com/mattwebbio/go-forwardemail/forwardemail"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/diag"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/schema"
 )
